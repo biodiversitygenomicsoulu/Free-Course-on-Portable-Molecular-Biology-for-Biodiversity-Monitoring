@@ -29,6 +29,6 @@ Everyone has their own fish and the assigned the collection data.
 
 **1.2** 📷 Take a picture of the full specimen before we start to take a tissue sample from the specimens (see Figure 2). We put numbers next to the fish on the photo. Throughout the course your sample will keep this number so that we can assign the fish we sampled to the genetic data we will generate in the end of the course. If you don't have a mobile phone or camera to take a picture ask a teacher.
 
-<img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu. Based on the photo a morphological species identification is possible. The whole body is visible.*
+<img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu, Finland. Based on the photo a morphological species identification is possible. The whole body is visible.*
 
 ➤ The next step is the **DNA Extraction**.
