@@ -5,7 +5,7 @@ Tuesday, 22.09.2026**
 
 Good morning!
 
-Today, you go together with your fellow participants, the teachers and the assisstants to the local fish market of Bissau. The goal for the course is to select a broad variety of species from the offered mostly marine fishes. Please, talk to your fellow course participants and teachers if you found a fish of interest so that we do not buy too many of the same species. 
+🐟 Today, you go together with your fellow participants, the teachers and the assisstants to the local fish market of Bissau. The goal for the course is to select a broad variety of species from the offered mostly marine fishes. Please, talk to your fellow course participants and teachers if you found a fish of interest so that we do not buy too many of the same species. 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d402069d36563000151fa5b/1643793579051-SO73AAT676YH2QKZDBJH/10+CABDALI_BISSAU_MARCHE_37.jpg?format=1500w" /> ***Figure 1:** Fish market in Bissau. © Carmen Yasmine Abd Ali*
 
@@ -27,8 +27,8 @@ Today, you go together with your fellow participants, the teachers and the assis
 🏠 We are back in our lab!  
 Everyone has their own fish and the assigned the collection data.
 
-1.2 📷 Take a picture of the full specimen before we start to take an tissue sample from the specimen (see Figure 2). If you don't have a mobile phone or camera to take a picture ask a teacher.
+1.2 📷 Take a picture of the full specimen before we start to take a tissue sample from the specimens (see Figure 2). We put numbers next to the fish on the photo. Throughout the course your sample will keep this number so that we can assign the fish we sampled to the genetic data we will generate in the end of the course. If you don't have a mobile phone or camera to take a picture ask a teacher.
 
 <img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu. Based on the photo a morphological species identification is possible. The whole body is visible.*
 
-Everyone will get a small PCR reaction tube (max. volume capacity of 200 µL) which has a sample number on it. Throughout the course your sample will keep this number so that we can assign the fish we sampled to the genetic data we will generate in the end of the course.
+Everyone will get a small PCR reaction tube (max. volume capacity of 200 µL) which has a sample number on it. 
