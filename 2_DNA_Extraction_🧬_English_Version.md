@@ -10,7 +10,7 @@ Tuesday, 22.09.2026**
 **2.3** Fold a piece of aluminium foil approximately five times. 
 
 > [!TIP]
-> Handling a whole fish can be slimy! Put a second layer of gloves on to do step 2.4. Once you placed the piece of tissue on the folded foil
+> Handling a whole fish can be slimy! Put a second layer of gloves on to do step 2.4. Once you placed the piece of tissue on the folded foil you can decard the outer layer of gloves into the trash. Generally, exchange your gloves for new ones if you got in touch with the sample or reagents.
 
 **2.4** Cut a piece of muscle tisse from your specimen that fits on the folded foil.
 
