@@ -10,7 +10,7 @@ Good morning!
 <img src="https://images.squarespace-cdn.com/content/v1/5d402069d36563000151fa5b/1643793579051-SO73AAT676YH2QKZDBJH/10+CABDALI_BISSAU_MARCHE_37.jpg?format=1500w" /> ***Figure 1:** Fish market in Bissau. © Carmen Yasmine Abd Ali*
 
 > [!IMPORTANT]
-> For the course we use genetic primers specifically developed to work with vertebrates. Please chose a fish species and e.g. no crustaceans, mollusks nor echinoderms. You can select chondrichthyans (cartilaginous fish) or osteichthyans (bony fish).
+> For the course we use genetic primers specifically developed to work with vertebrates. Please chose a fish species and e.g. no crustaceans, mollusks nor echinoderms. You can select chondrichthyans (cartilaginous fish) or osteichthyans (bony fish). The fish be untreated (not cooked nor salted).
 
 **1.1**  📝 Note the following information for your chosen fish specimen (information in bold letters are mandatory):
 > - **Name given of the fish in Guinea-Bissau Creole and/or Portuguese by the seller:**
