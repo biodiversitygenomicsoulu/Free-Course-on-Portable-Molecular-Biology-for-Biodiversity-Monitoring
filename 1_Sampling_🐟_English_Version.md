@@ -12,7 +12,7 @@ Good morning!
 > [!IMPORTANT]
 > For the course we use genetic primers specifically developed to work with vertebrates. Please chose a fish species and e.g. no crustaceans, mollusks nor echinoderms. You can select chondrichthyans (cartilaginous fish) or osteichthyans (bony fish).
 
-1.1  📝 Note the following information for your chosen fish specimen (information in bold letters are mandatory):
+**1.1**  📝 Note the following information for your chosen fish specimen (information in bold letters are mandatory):
 > - **Name given of the fish in Guinea-Bissau Creole and/or Portuguese by the seller:**
 > - Location of capture (if known by the seller; optional):
 > - Trivial name that you know for this species (optional):
@@ -27,8 +27,8 @@ Good morning!
 🏠 We are back in our lab!  
 Everyone has their own fish and the assigned the collection data.
 
-1.2 📷 Take a picture of the full specimen before we start to take a tissue sample from the specimens (see Figure 2). We put numbers next to the fish on the photo. Throughout the course your sample will keep this number so that we can assign the fish we sampled to the genetic data we will generate in the end of the course. If you don't have a mobile phone or camera to take a picture ask a teacher.
+**1.2** 📷 Take a picture of the full specimen before we start to take a tissue sample from the specimens (see Figure 2). We put numbers next to the fish on the photo. Throughout the course your sample will keep this number so that we can assign the fish we sampled to the genetic data we will generate in the end of the course. If you don't have a mobile phone or camera to take a picture ask a teacher.
 
 <img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu. Based on the photo a morphological species identification is possible. The whole body is visible.*
 
-Everyone will get a small PCR reaction tube (max. volume capacity of 200 µL) which has a sample number on it. 
+➤ The next step is the **DNA Extraction**.
