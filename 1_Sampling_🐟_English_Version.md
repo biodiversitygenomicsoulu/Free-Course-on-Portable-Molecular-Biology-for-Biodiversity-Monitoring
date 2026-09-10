@@ -31,4 +31,4 @@ Everyone has their own fish and the assigned collection data.
 
 <img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu, Finland. Based on the photo a morphological species identification is possible. The whole body is visible.*
 
-➤ The next step is the **DNA Extraction**.
+➤ The next step is the **2 DNA Extraction**.
