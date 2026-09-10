@@ -26,11 +26,16 @@ Tuesday, 22.09.2026**
 
 **2.7** Put the reaction tube with the sample sumrged in QuickExtract™ DNA Extraction Solution into the **miniPCR® thermal cycler**. Wait for your fellow participants to put in their samples, too.
 
+<img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16-4-800x533.png" /><img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16X-hand-tubes-square-560x560.png" />  
+***Figure 3:** miniPCR® mini16 thermal cycler and miniPCR® mini16X thermal cycler*
+
 **2.8** The samples will be **heated at 65 °C for 15 minutes** for the tissue lysis. This is not a PCR yet.
 
 **2.9** Take your reaction tube out of the thermal cycler and **vortex the sample for 5 seconds**.
 
-**2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge**. Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are not sure. 
+**2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge**. Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are not sure.
+
+<img height="250" src="https://www.minipcr.com/wp-content/uploads/DSC_0301-800x800.png" />***Figure 4:** Gyro™ Plus Microcentrifuge*
 
 **2.11** **Centrifuge for 5 minutes at maximal speed.** The Gyro™ Plus Microcentrifuge can speed up to 12,000 RPM. The lysed tissue should be centrifuged to the bottom of the reaction tube while the liquid with the extracted DNA will form a supernatant.
 
