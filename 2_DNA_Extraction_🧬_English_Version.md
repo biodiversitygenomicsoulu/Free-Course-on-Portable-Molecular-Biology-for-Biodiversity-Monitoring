@@ -28,7 +28,7 @@ Tuesday, 22.09.2026**
 
 **2.8** The samples will be **heated at 65 °C for 15 minutes** for the tissue lysis. This is not a PCR yet.
 
-**2.9** Take your reaction tube out of the thermal cycler and vortex the sample for 5 seconds.
+**2.9** Take your reaction tube out of the thermal cycler and **vortex the sample for 5 seconds**.
 
 **2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge**. Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are not sure. 
 
