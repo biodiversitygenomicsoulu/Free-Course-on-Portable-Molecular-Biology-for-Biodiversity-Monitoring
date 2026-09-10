@@ -24,7 +24,7 @@ Tuesday, 22.09.2026**
 > [!NOTE]
 > DNA extraction with **QuickExtract™ DNA Extraction Solution** is a simplified method sometimes called "crude DNA extraction". It allows to isolate DNA from biological samples without full purification steps to remove proteins, polysaccharides, and other compounds. The resulting "crude extract" contains enough intact DNA for applications like PCR, especially when only short DNA fragments are required. Especially with"lower quality samples" like faeces or forgenomic approaches this kind of DNA extracions is not recommended.
 
-**2.7** Put the reaction tube with the sample sumrged in QuickExtract™ DNA Extraction Solution into the **miniPCR® thermal cycler**. Wait for your fellow participants to put in their samples, too.
+**2.7** Put the reaction tube with the sample sumrged in QuickExtract™ DNA Extraction Solution into the **miniPCR® thermal cycler** (Figure 3). Wait for your fellow participants to put in their samples, too.
 
 <img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16-4-800x533.png" /><img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16X-hand-tubes-square-560x560.png" />  
 ***Figure 3:** miniPCR® mini16 thermal cycler and miniPCR® mini16X thermal cycler*
@@ -33,7 +33,7 @@ Tuesday, 22.09.2026**
 
 **2.9** Take your reaction tube out of the thermal cycler and **vortex the sample for 5 seconds**.
 
-**2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge**. Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are not sure.
+**2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge** (Figure 4). Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are not sure.
 
 <img height="250" src="https://www.minipcr.com/wp-content/uploads/DSC_0301-800x800.png" />***Figure 4:** Gyro™ Plus Microcentrifuge*
 
