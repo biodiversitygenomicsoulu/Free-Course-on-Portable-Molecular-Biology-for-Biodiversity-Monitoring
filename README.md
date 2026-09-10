@@ -12,6 +12,27 @@ Choose a language / Escolha um idioma
 
 ---
 
+Choose a language / Escolha um idioma
+
+<a href="#portuguese"><img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /></a> <a href="#english"><img height="25" alt="English" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/union_jack.png" /></a>
+
+---
+
+<a id="portuguese"></a>
+
+# <img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /> Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade
+
+... conteúdo em português ...
+
+<a id="english"></a>
+
+# <img height="25" alt="English" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/union_jack.png" /> Free Course on Portable Molecular Biology for Biodiversity Monitoring
+
+## ... English content ...
+
+
+---
+
 # <img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /> Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade 
 Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade**, realizado em Bissau, Guiné-Bissau. O repositório contém o protocolo passo a passo, desde a recolha das amostras, a extração de DNA e a amplificação de marcadores genéticos por PCR, até à eletroforese em gel.
 
