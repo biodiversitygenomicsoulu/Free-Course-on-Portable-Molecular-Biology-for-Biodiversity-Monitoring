@@ -26,8 +26,8 @@ Tuesday, 22.09.2026**
 
 **2.7** Put the reaction tube with the sample sumrged in QuickExtract™ DNA Extraction Solution into the **miniPCR® thermal cycler** (Figure 3). Wait for your fellow participants to put in their samples, too.
 
-<img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16-4-800x533.png" /><img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16X-hand-tubes-square-560x560.png" />  
-***Figure 3:** miniPCR® mini16 thermal cycler and miniPCR® mini16X thermal cycler*
+**a**<img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16-4-800x533.png" />**b**<img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16X-hand-tubes-square-560x560.png" />  
+***Figure 3:** (a) miniPCR® mini16 thermal cycler and (b) miniPCR® mini16X thermal cycler*
 
 **2.8** The samples will be **heated at 65 °C for 15 minutes** for the tissue lysis. This is not a PCR yet.
 
