@@ -19,13 +19,19 @@ Tuesday, 22.09.2026**
 > [!IMPORTANT]
 > Throughout the course you will pipette different types and amounts of fluids. Always pick the pipette that can take up the volume you need to pipette (commmon sizes are: 10 µL, 100 µL, 200 µL, 1000 µL). Always discard a pipette tip that transferred a fluid into a tube with another fluid or sample to not contaminate between reagents and samples!
 
-**2.6** Take a 100 µL or 200 µL pipette and transfer **50 µL** of the **QuickExtract™ DNA Extraction Solution** into the PCR tube with the piece of tissue. It is important that the tissue is completely covered. Add more QuickExtract™ DNA Extraction Solution if the tissue is not covered yet. But don't forget to use a new pipette tip! The PCR tube's max. volume capacity is 200 µL.
+**2.6** Take a 100 µL or 200 µL pipette and transfer **50 µL** of the **QuickExtract™ DNA Extraction Solution** into the PCR tube with the piece of tissue. It is important that the tissue is completely covered. Add more QuickExtract™ DNA Extraction Solution if the tissue is not covered yet. But don't forget to use a new pipette tip! The PCR tube's max. volume capacity is 200 µL. Try to get rid of a air bubble below the tissue with a pipette tip.
 
 > [!NOTE]
 > DNA extraction with **QuickExtract™ DNA Extraction Solution** is a simplified method sometimes called "crude DNA extraction". It allows to isolate DNA from biological samples without full purification steps to remove proteins, polysaccharides, and other compounds. The resulting "crude extract" contains enough intact DNA for applications like PCR, especially when only short DNA fragments are required. Especially with"lower quality samples" like faeces or forgenomic approaches this kind of DNA extracions is not recommended.
 
-1)	Schneidet vorsichtig die Haare (10-20) wenn möglich in kleine Stücke und fügt 100 µl Chelex hinzu. 
-2)	Stellt eure Probe in den Heizblock und erhitzt sie unter Schütteln (800 rpm) für 10 Minuten bei 99 °C. 
-3)	Schüttlet eure Probe nach dem Kochen kräftig.
-4)	Stellt sie danach in die Zentrifuge und zentrifugiert sie für 1,5 Minuten bei voller Geschwindigkeit.
-5)	1 µl des Überstandes wird für die PCR eingesetzt. 
+**2.7** Put the reaction tube with the sample sumrged in QuickExtract™ DNA Extraction Solution into the **miniPCR® thermal cycler**. Wait for your fellow participants to put in their samples, too.
+
+**2.8** The samples will be **heated at 65 °C for 15 minutes** for the tissue lysis. This is not a PCR yet.
+
+**2.9** Take your reaction tube out of the thermal cycler and vortex the sample for 5 seconds.
+
+**2.10** Put your reaction tube **into the Gyro™ Plus Microcentrifuge**. Balance the reaction tubes before starting the centrifugation. As a teacher if you are not sure. 
+
+**2.11** **Centrifuge for 5 minutes at maximal speed.** The Gyro™ Plus Microcentrifuge can speed up to 12,000 RPM. The lysed tissue should be centrifuged to the bottom of the reaction tube while the liquid with the extracted DNA will form a supernatant.
+
+➤ We will use 1 µL supernatant per PCR reaction in the next step (3. Genetic Marker Amplification (PCR))
