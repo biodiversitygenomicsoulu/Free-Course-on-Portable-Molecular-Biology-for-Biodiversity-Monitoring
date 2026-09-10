@@ -10,6 +10,20 @@ Choose a language / Escolha um idioma
 # <img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /> Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade 
 Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade**, realizado em Bissau, Guiné-Bissau. O repositório contém o protocolo passo a passo, desde a recolha das amostras, a extração de DNA e a amplificação de marcadores genéticos por PCR, até à eletroforese em gel.
 
+### Como começar
+---
+**Tipos de caixas de informação:**
+
+> [!NOTE]
+> As notas contêm informações relevantes de contexto para ajudar a compreender o processo.
+
+> [!IMPORTANT]
+> Informações importantes a ter em conta antes de, por exemplo, prosseguir com o protocolo.
+
+> [!TIP]
+> Informações não essenciais sobre o que fazer numa determinada etapa.
+---
+
 <a id="english"></a> 
 # <img height="25" alt="English" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/union_jack.png" /> Free Course on Portable Molecular Biology for Biodiversity Monitoring 
 
@@ -17,25 +31,7 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 
 ### Getting started
 ---
-**Symbols:**
-
-💻 = in your terminal of your choice
-- Windows: Use **Command Prompt** (cmd.exe), **Windows PowerShell**, or **MobaXterm**.
-- Apple: Use **Terminal.app** or other macOS terminal applications.
-- Linux: Use **Terminal** or other Linux terminal emulators.
-
-🌐 = in Webbrowser of your choice
-
-📜 = **Pipeline Scripts** with core coding and **SLURM batch scripts** for job submission, file paths, resource specifications, and run-specific settings (both bash shell scripts in `*.sh` files).
-
-📄 = Output / file content
-
-🔗 = Online links
-
->💡 = *Example (code)*
-
-
-**Alert types:**
+**Info box types:**
 
 > [!NOTE]
 > Notes contain relevant background information to understand the process.
