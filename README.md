@@ -29,14 +29,14 @@ Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitori
 
 Repository for the **Free Course on Portable Molecular Biology for Biodiversity Monitoring** conducted in Bissau, Guinea-Bissau. It comprises the step-by-step protocol from sample collection, DNA extraction, Amplification of genetic markers (PCR), and gel electrophorasis.
 
-Workflow:
-
-## 1. Sampling
-## 2. DNA Extraction
-## 3. Genetic Marker Amplification (PCR)
-## 4. Gel Electrophoresis
-## → Nanopore Sequencing (demonstration)
-## → Bioinformatics (demonstartion)
+> Workflow:
+>
+> ## 1. Sampling
+> ## 2. DNA Extraction
+> ## 3. Genetic Marker Amplification (PCR)
+> ## 4. Gel Electrophoresis
+> ## → Nanopore Sequencing (demonstration)
+> ## → Bioinformatics (demonstartion)
 
 ### Getting started
 ---
