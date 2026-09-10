@@ -10,6 +10,15 @@ Choose a language / Escolha um idioma
 # <img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /> Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade 
 Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade**, realizado em Bissau, Guiné-Bissau. O repositório contém o protocolo passo a passo, desde a recolha das amostras, a extração de DNA e a amplificação de marcadores genéticos por PCR, até à eletroforese em gel.
 
+> **Fluxo de trabalho:**
+>
+> ## 1. Amostragem
+> ## 2. Extração de DNA
+> ## 3. Amplificação do marcador genético (PCR)
+> ## 4. Eletroforese em gel
+> ## → Sequenciamento por Nanopore (demonstração)
+> ## → Bioinformática (demonstração)
+
 ### Como começar
 ---
 **Tipos de caixas de informação:**
@@ -36,7 +45,7 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 > ## 3. Genetic Marker Amplification (PCR)
 > ## 4. Gel Electrophoresis
 > ## → Nanopore Sequencing (demonstration)
-> ## → Bioinformatics (demonstartion)
+> ## → Bioinformatics (demonstration)
 
 ### Getting started
 ---
