@@ -3,7 +3,7 @@
 **Course day 3  
 Wednesday, 23.09.2026**
 
-**3.1** Everyone will receive two new small **PCR reaction tube** labelled with their previously assigned sample number and a PCR raction tube for the 5× PCR master mix (step 3.2). Place the reaction tubes in a rack.
+**3.1** Everyone will receive two new small **PCR reaction tube** labelled with their previously assigned sample number and a PCR raction tube for the 6× PCR master mix (step 3.2). Place the reaction tubes in a rack.
 
 **3.2** One person per lab group uses 10 µL and 100 µL/200 µL pipettes to **mix the 6× PCR master mix (Table 1; third column)** for one primer pair. Another person from your group will prepare the 6× PCR master mix for the other primer pair. Label the primer on the lit of the reaction tube to avoid confusion!
 
