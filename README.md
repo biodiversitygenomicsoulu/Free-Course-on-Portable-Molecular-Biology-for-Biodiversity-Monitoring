@@ -86,4 +86,4 @@ The next part of the course is sympolised by three arrows (➤➤➤).
 >
 > biodiversity.genomics@oulu.fi
 
-- Version 1.0: Gerrit Wehrenberg & Stefan Prost, 10.09.2026
+- Version 1.0: Gerrit Wehrenberg, Ivo Colmonero-Costeira, Maria Joana Ferreira da Silva & Stefan Prost, 11.09.2026
