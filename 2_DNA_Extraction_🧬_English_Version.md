@@ -1,7 +1,7 @@
 # 2 DNA Extraction
 
-**Course day 2  
-Tuesday, 22.09.2026**
+**Course day 3  
+Wednesday, 23.09.2026**
 
 **2.1** Put on nitrile gloves to not contaminate your samples with your own DNA. Try to touch as few things as possible with gloves on.
 
