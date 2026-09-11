@@ -44,7 +44,7 @@ A parte seguinte do curso é representada por três setas (➤➤➤).
 <a id="english"></a> 
 # <img height="25" alt="English" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/union_jack.png" /> Free Course on Portable Molecular Biology for Biodiversity Monitoring 
 
-Repository for the **Free Course on Portable Molecular Biology for Biodiversity Monitoring** conducted from the 21.-28.09.2026 in Bissau, Guinea-Bissau. It comprises the step-by-step protocol from sample collection, DNA extraction, Amplification of genetic markers (PCR), and gel electrophorasis.
+Repository for the **Free Course on Portable Molecular Biology for Biodiversity Monitoring** conducted from the 21. - 28.09.2026 in Bissau, Guinea-Bissau. It comprises the step-by-step protocol from sample collection, DNA extraction, Amplification of genetic markers (PCR), and gel electrophorasis.
 
 > Workflow:
 >
