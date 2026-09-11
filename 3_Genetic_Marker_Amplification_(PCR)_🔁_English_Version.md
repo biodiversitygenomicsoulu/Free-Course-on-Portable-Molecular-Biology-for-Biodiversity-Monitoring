@@ -3,7 +3,34 @@
 **Course day 3  
 Wednesday, 23.09.2026**
 
-**3.1** Everyone will receive two new small **PCR reaction tube** labelled with their previously assigned sample number and a PCR raction tube for the 6× PCR master mix (step 3.2). Place the reaction tubes in a rack.
+---
+### Materials and Equipment
+**Consumables:**
+
+* Nitrile gloves
+* PCR reaction tubes
+* 10 µL pipette tips
+* 100 µL or 200 µL pipette tips
+
+**Reagents:**
+
+* VWR® Taq DNA Polymerase Master Mix
+* Teleo02 Forward (F) primer
+* Teleo02 Reverse (R) primer 
+* Vert 16S Forward (F) primer
+* Vert 16S Reverse (R) primer
+* MilliQ water (H₂O)
+
+**Equipment:**
+
+* Tube rack
+* 10 µL pipette
+* 100 µL or 200 µL pipette
+* miniPCR® thermal cycler
+* Gyro™ Plus Microcentrifuge
+---
+
+**3.1** Everyone will receive two new small **PCR reaction tube** labelled with their previously assigned sample number and a PCR raction tube for the 6× PCR master mix (step 3.2). Place the reaction tubes in a tube rack.
 
 **3.2** One person per lab group uses 10 µL and 100 µL/200 µL pipettes to **mix the 6× PCR master mix (Table 1; third column)** for one primer pair. Another person from your group will prepare the 6× PCR master mix for the other primer pair. Label the primer on the lit of the reaction tube to avoid confusion!
 
@@ -30,7 +57,7 @@ Wednesday, 23.09.2026**
 | VWR® Taq DNA Polymerase Master Mix |                              10 µL |                                   60 µL |
 | Forward (F) primer                 |                             0.4 µL |                                  2.4 µL |
 | Reverse (R) primer                 |                             0.4 µL |                                  2.4 µL |
-| H₂O (water)                        |                             6.2 µL |                                 37.2 µL |
+| H₂O (MilliQ water)                 |                             6.2 µL |                                 37.2 µL |
 | **Total PCR master mix**           |                          **17 µL** |                              **102 µL** |
 | DNA extract*                       |                               1 µL |                                       — |
 | **Final reaction volume**          |                          **18 µL** |                                       — |
