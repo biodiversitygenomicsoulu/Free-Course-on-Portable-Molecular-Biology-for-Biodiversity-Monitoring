@@ -18,9 +18,16 @@ Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitori
 > ## [4. Eletroforese em gel]()
 > ## → Preparação da Biblioteca e Sequenciação por Nanopore (demonstração)
 > ## → Bioinformática (demonstração)
+---
 
 ### Como começar
----
+
+**Símbolos:**
+
+Cada passo é representado por uma seta (➤).
+
+A parte seguinte do curso é representada por três setas (➤➤➤).
+
 **Tipos de caixas de informação:**
 
 > [!NOTE]
@@ -46,9 +53,16 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 > ## [4. Gel Electrophoresis](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Gel_Electrophoresis_%E2%9A%A1_English_Version.md)
 > ## → Nanopore Library Preparation and Sequencing (demonstration)
 > ## → Bioinformatics (demonstration)
+---
 
 ### Getting started
----
+
+**Symbols:**
+
+Every step is symbolised by one arrow (➤).
+
+The next part of the course is sympolised by three arrows (➤➤➤).
+
 **Info box types:**
 
 > [!NOTE]
