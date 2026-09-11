@@ -25,7 +25,7 @@ Good morning!
 > [!IMPORTANT]
 > For the course, we will use genetic primers specifically developed for vertebrates. Please choose a fish species and do not select crustaceans, mollusks, nor echinoderms. You can choose either a chondrichthyan (cartilaginous fish) or an osteichthyan (bony fish). The fish must be untreated, i.e. neither cooked nor salted.
 
-**1.1** 📝 Note the following information for your chosen fish specimen (information in bold is mandatory):
+➤ **1.1** 📝 Note the following information for your chosen fish specimen (information in bold is mandatory):
 > - **Name of the fish in Guinea-Bissau Creole and/or Portuguese, as given by the seller:**
 > - Location of capture (if known by the seller; optional):
 > - Trivial name that you know for this species (optional):
@@ -40,8 +40,9 @@ Good morning!
 🏠 We are back in our lab!  
 Everyone has their own fish and the assigned collection data.
 
-**1.2** 📷 Take a picture of the entire specimen before taking a tissue sample (see Figure 2). Place the specimen number next to the fish in the photo. This number will remain associated with your specimen throughout the course, allowing us to link the fish we sampled to the genetic data generated at the end of the course. If you do not have a mobile phone or camera to take a picture, please ask a teacher for help.
+➤ **1.2** 📷 Take a picture of the entire specimen before taking a tissue sample (see Figure 2). Place the specimen number next to the fish in the photo. This number will remain associated with your specimen throughout the course, allowing us to link the fish we sampled to the genetic data generated at the end of the course. If you do not have a mobile phone or camera to take a picture, please ask a teacher for help.
 
-<img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:** This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu, Finland. Based on the photo a morphological species identification is possible. The whole body is visible.*
+> <img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figure 2:**
+> This is an orfe (*Leuciscus idus*), a freshwater fish caught during ice fishing in the Baltic sea close to Oulu, Finland. Based on the photo a morphological species identification is possible. The whole body is visible.*
 
-➤ The next step is the **2 DNA Extraction**.
+➤➤➤ The next step is the **2 DNA Extraction**.
