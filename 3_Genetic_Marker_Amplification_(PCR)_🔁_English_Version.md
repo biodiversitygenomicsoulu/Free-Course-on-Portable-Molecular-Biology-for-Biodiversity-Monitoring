@@ -20,7 +20,7 @@ Wednesday, 23.09.2026**
 
 **3.5** Everybody take the new PCR reaction tubes labelled with their previously assigned sample number and uses a 10 µL pipette to mix the final PCR reaction per primer pair each. **Mix 17 µL PCR master mix (containing Teleo02) with 1 µL DNA extract** and **mix 17 µL PCR master mix (containing Vert 16S) with 1 µL DNA extract (Table 1; second column)**. Label the primer on the lit of the reaction tube to avoid confusion!
 
-***Table 1:** Components and volumes used for a single PCR reaction and for a master mix prepared for five reactions. The DNA extract (*) is obtained from the supernatant collected in step 2.11 and is added separately to each PCR reaction.
+***Table 1:** Components and volumes used for a single PCR reaction and for a master mix prepared for five reactions. The DNA extract ( * ) is obtained from the supernatant collected in step 2.11 and is added separately to each PCR reaction.
 | Component                          | Volume per PCR reaction (step 3.5) | Volume for 5× PCR master mix (step 3.2) |
 | ---------------------------------- | ---------------------------------: | --------------------------------------: |
 | VWR® Taq DNA Polymerase Master Mix |                              10 µL |                                   50 µL |
