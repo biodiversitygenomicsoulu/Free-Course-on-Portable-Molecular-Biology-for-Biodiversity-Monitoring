@@ -53,6 +53,8 @@ Wednesday, 23.09.2026**
 > | Agarose         | **0.40 g** |
 > | 0.5× TBE buffer |  **20 mL** |
 
+[![Watch the video](https://img.youtube.com/vi/5JTEg-XOqks/maxresdefault.jpg)](https://www.youtube.com/watch?v=5JTEg-XOqks)
+
 ➤ **4.2** Gently swirl the **laboratory glass bottle** containing the 20 mL agarose–TBE mixture.
 
 ➤ **4.3** Loosely place the lid on the laboratory glass bottle and place the bottle in the microwave. Heat the solution for a few seconds at a time and make sure that it does not boil over.
