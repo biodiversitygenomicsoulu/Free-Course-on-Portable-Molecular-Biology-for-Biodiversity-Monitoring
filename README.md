@@ -72,4 +72,4 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 >
 > biodiversity.genomics@oulu.fi
 
-- Version 1.0: Gerrit Wehrenberg, Ivo Colmonero-Costeira, Maria Joana Ferreira da Silva & Stefan Prost, 10.09.2026
+- Version 1.0: Gerrit Wehrenberg & Stefan Prost, 10.09.2026
