@@ -44,9 +44,16 @@ Wednesday, 23.09.2026**
 
 ➤ **4.1** We will do the **2 % agarose gels** to perform a gel electrophoresis with our PCR products in a togehter (Table 3).
 
+***Table 3:** Preparing 2 % agarose gels.*
+
+➤ **4.2** Use a 10 µL pipette and mix the following in a PCR reaction tube or on a PCR 96 plate (Table 4):
+
+***Table 4:** Loading mix for gel electrophoresis.*
+
+> <img height="350" src="https://www.minipcr.com/wp-content/uploads/blueGel-system-705x467.png" />
+>
+> ***Figure 7:** blueGel™ electrophoresis with built-in transilluminator*
 
 
 
-Use a 10 µL pipette and mix the following in a PCR reaction tube or on a PCR 96 plate (Table 3):
-
-***Table 3:** Loading mix for gel electrophoresis.*
+https://www.minipcr.com/wp-content/uploads/blueGel-with-fold-a-view-2025.jpg
