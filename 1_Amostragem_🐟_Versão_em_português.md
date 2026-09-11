@@ -25,7 +25,7 @@ Bom dia!
 > [!IMPORTANT]
 > Para o curso, utilizaremos primers genéticos especificamente desenvolvidos para trabalhar com vertebrados. Por favor, escolham uma espécie de peixe e não selecionem crustáceos, moluscos ou equinodermes. Podem escolher entre um condríctio (peixe cartilagíneo) ou um osteíctio (peixe ósseo). O peixe deve estar em estado natural, ou seja, não pode estar cozinhado nem salgado.
 
-**1.1** 📝 Registem as seguintes informações sobre o peixe que escolheram (as informações a negrito são obrigatórias):
+➤ **1.1** 📝 Registem as seguintes informações sobre o peixe que escolheram (as informações a negrito são obrigatórias):
 
 > * **Nome do peixe em crioulo da Guiné-Bissau e/ou em português, tal como indicado pelo vendedor:**
 > * Local de captura (se conhecido pelo vendedor; opcional):
@@ -41,8 +41,10 @@ Bom dia!
 🏠 Estamos de volta ao nosso laboratório!
 Cada um de vocês tem o seu próprio peixe e os respetivos dados de recolha.
 
-**1.2** 📷 Tire uma fotografia do espécime inteiro antes de recolher uma amostra de tecido (ver Figura 2). Coloque o número do espécime ao lado do peixe na fotografia. Este número permanecerá associado ao vosso espécime durante todo o curso, permitindo-nos relacionar o peixe do qual recolhemos a amostra com os dados genéticos que iremos gerar no final do curso. Se não tiverem um telemóvel ou uma câmara para tirar a fotografia, peçam ajuda a um professor.
+➤ **1.2** 📷 Tire uma fotografia do espécime inteiro antes de recolher uma amostra de tecido (ver Figura 2). Coloque o número do espécime ao lado do peixe na fotografia. Este número permanecerá associado ao vosso espécime durante todo o curso, permitindo-nos relacionar o peixe do qual recolhemos a amostra com os dados genéticos que iremos gerar no final do curso. Se não tiverem um telemóvel ou uma câmara para tirar a fotografia, peçam ajuda a um professor.
 
-<img src="https://static.inaturalist.org/photos/622863606/original.jpg" /> ***Figura 2:** Este é um pimpão (*Leuciscus idus*), um peixe de água doce capturado durante a pesca no gelo no Mar Báltico, perto de Oulu, na Finlândia. Com base na fotografia, é possível realizar uma identificação morfológica da espécie. O corpo inteiro do peixe está visível.*
+> <img src="https://static.inaturalist.org/photos/622863606/original.jpg" />
+>
+> ***Figura 2:** Este é um pimpão (*Leuciscus idus*), um peixe de água doce capturado durante a pesca no gelo no Mar Báltico, perto de Oulu, na Finlândia. Com base na fotografia, é possível realizar uma identificação morfológica da espécie. O corpo inteiro do peixe está visível.*
 
-➤ O próximo passo é a **Extração de DNA**.
+➤➤➤ O próximo passo é a **Extração de DNA**.
