@@ -13,11 +13,12 @@ Wednesday, 23.09.2026**
 
 **Reagents:**
 
-* TBE buffer
+* 0.5× TBE buffer (has to be prepared freshly)
 * Agarose
 * SeeGreen™ Nucleic Acid Stain
 * TriTrack DNA Loading Dye
 * MilliQ water (H₂O)
+* destilled water (H₂O)
 
 **Equipment:**
 
