@@ -47,4 +47,4 @@ Cada um de vocês tem o seu próprio peixe e os respetivos dados de recolha.
 >
 > ***Figura 2:** Este é um pimpão (*Leuciscus idus*), um peixe de água doce capturado durante a pesca no gelo no Mar Báltico, perto de Oulu, na Finlândia. Com base na fotografia, é possível realizar uma identificação morfológica da espécie. O corpo inteiro do peixe está visível.*
 
-➤➤➤ O próximo passo é a **Extração de DNA**.
+➤➤➤ O próximo passo é a **[2. Extração de DNA](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/2_Extra%C3%A7%C3%A3o_de_DNA_%F0%9F%A7%AC_Vers%C3%A3o_em_portugu%C3%AAs.md).**
