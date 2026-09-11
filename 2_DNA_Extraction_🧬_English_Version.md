@@ -27,7 +27,7 @@ Wednesday, 23.09.2026**
 
 **2.1** Put on nitrile gloves to avoid contaminating your samples with your own DNA. Try to touch as few surfaces as possible while wearing gloves.
 
-**2.2** Everyone will receive a piece of **aluminium foil**, a sterile **scalpel blade**, and a small **PCR reaction tube** labelled with their previously assigned sample number. Place the reaction tube in a rack.
+**2.2** Everyone will receive a piece of **aluminium foil**, a sterile **scalpel blade**, and a small **PCR reaction tube** labelled with their previously assigned sample number. Place the reaction tube in a tube rack.
 
 **2.3** Fold a piece of aluminium foil approximately five times.
 
