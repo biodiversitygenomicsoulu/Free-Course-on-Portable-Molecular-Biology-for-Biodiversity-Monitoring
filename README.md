@@ -8,7 +8,8 @@ Choose a language / Escolha um idioma
 
 <a id="portuguese"></a>
 # <img height="25" alt="Português" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/flag_of_portugal.png" /> Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade 
-Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitorização da Biodiversidade**, realizado em Bissau, Guiné-Bissau. O repositório contém o protocolo passo a passo, desde a recolha das amostras, a extração de DNA e a amplificação de marcadores genéticos por PCR, até à eletroforese em gel.
+
+Repositório do **Curso Livre de Biologia Molecular Portátil para a Monitorização da Biodiversidade**, realizado de **21 a 28 de setembro de 2026**, em Bissau, Guiné-Bissau. O repositório contém o protocolo passo a passo, desde a **recolha de amostras**, a **extração de DNA**, a **amplificação de marcadores genéticos (PCR)** e a **eletroforese em gel**.
 
 > **Fluxo de trabalho:**
 >
@@ -43,7 +44,7 @@ A parte seguinte do curso é representada por três setas (➤➤➤).
 <a id="english"></a> 
 # <img height="25" alt="English" src="https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/08/union_jack.png" /> Free Course on Portable Molecular Biology for Biodiversity Monitoring 
 
-Repository for the **Free Course on Portable Molecular Biology for Biodiversity Monitoring** conducted in Bissau, Guinea-Bissau. It comprises the step-by-step protocol from sample collection, DNA extraction, Amplification of genetic markers (PCR), and gel electrophorasis.
+Repository for the **Free Course on Portable Molecular Biology for Biodiversity Monitoring** conducted from the 21.-28.09.2026 in Bissau, Guinea-Bissau. It comprises the step-by-step protocol from sample collection, DNA extraction, Amplification of genetic markers (PCR), and gel electrophorasis.
 
 > Workflow:
 >
