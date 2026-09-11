@@ -41,9 +41,9 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 > Workflow:
 >
 > ## [1. Sampling](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/1_Sampling_%F0%9F%90%9F_English_Version.md)
-> ## 2. DNA Extraction
-> ## 3. Genetic Marker Amplification (PCR)
-> ## 4. Gel Electrophoresis
+> ## [2. DNA Extraction](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/2_DNA_Extraction_%F0%9F%A7%AC_English_Version.md)
+> ## [3. Genetic Marker Amplification (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Genetic_Marker_Amplification_(PCR)_%F0%9F%94%81_English_Version.md)
+> ## [4. Gel Electrophoresis](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Gel_Electrophoresis_%E2%9A%A1_English_Version.md)
 > ## → Nanopore Library Preparation and Sequencing (demonstration)
 > ## → Bioinformatics (demonstration)
 
