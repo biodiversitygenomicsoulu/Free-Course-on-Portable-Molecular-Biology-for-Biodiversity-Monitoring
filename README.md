@@ -40,7 +40,7 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 
 > Workflow:
 >
-> ## 1. Sampling
+> ## [1. Sampling](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/1_Sampling_%F0%9F%90%9F_English_Version.md)
 > ## 2. DNA Extraction
 > ## 3. Genetic Marker Amplification (PCR)
 > ## 4. Gel Electrophoresis
