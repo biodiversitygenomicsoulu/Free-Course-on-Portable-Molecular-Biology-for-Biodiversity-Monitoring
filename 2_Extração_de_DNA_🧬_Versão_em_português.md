@@ -3,6 +3,29 @@
 **Dia 3 do curso
 Quarta-feira, 23.09.2026**
 
+---
+### Materiais e Equipamentos
+
+**Consumíveis:**
+
+* Luvas de nitrilo
+* Folha de alumínio
+* Lâminas de bisturi estéreis
+* Tubos de reação para PCR
+* Pontas de pipeta de 100 µL ou 200 µL
+
+**Reagentes:**
+
+* QuickExtract™ DNA Extraction Solution
+
+**Equipamentos:**
+
+* Suporte para tubos
+* Pipeta de 100 µL ou 200 µL
+* miniPCR® thermal cycler
+* Gyro™ Plus Microcentrifuge
+---
+
 **2.1** Coloque luvas de nitrilo para evitar contaminar as suas amostras com o seu próprio DNA. Tente tocar no menor número possível de superfícies enquanto estiver a usar as luvas.
 
 **2.2** Cada participante receberá um pedaço de **folha de alumínio**, uma **lâmina de bisturi estéril** e um pequeno **tubo de reação para PCR**, identificado com o número de amostra previamente atribuído. Coloque o tubo de reação num suporte.
