@@ -53,7 +53,12 @@ Wednesday, 23.09.2026**
 > | Agarose         | **0.40 g** |
 > | 0.5× TBE buffer |  **20 mL** |
 
-[![Watch the video](https://img.youtube.com/vi/5JTEg-XOqks/maxresdefault.jpg)](https://www.youtube.com/watch?v=5JTEg-XOqks)
+> [!TIP]
+> Tutorial video for the steps 4.1 - 4.7: How to Pour a Gel | miniPCR bio™
+> 
+> <a href="https://www.youtube.com/watch?v=5JTEg-XOqks">
+>  <img src="https://img.youtube.com/vi/5JTEg-XOqks/maxresdefault.jpg" width="500">
+> </a>
 
 ➤ **4.2** Gently swirl the **laboratory glass bottle** containing the 20 mL agarose–TBE mixture.
 
@@ -112,5 +117,6 @@ Wednesday, 23.09.2026**
 
 ➤ **4.18** 📷 Take a photograph of the entire gel through the opening in the top of the **silicone Fold-a-View™ photo documentation hood** to document the results.
 
+➤➤➤ We will use the successful **PCR products** in the next step (**Nanopore Library preparation and Sequencing**). The library preparation and sequencing will be demonstrated by the teachers.
 
-
+➤➤➤ The last course day will be a demonstration on **Bioinformatics**.
