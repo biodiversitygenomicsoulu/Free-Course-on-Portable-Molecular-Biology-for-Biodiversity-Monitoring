@@ -1,6 +1,6 @@
 # 3 Amplificação do Marcador Genético (PCR)
 
-**Dia 3 do curso
+**Dia 3 do curso  
 Quarta-feira, 23.09.2026**
 
 ---
