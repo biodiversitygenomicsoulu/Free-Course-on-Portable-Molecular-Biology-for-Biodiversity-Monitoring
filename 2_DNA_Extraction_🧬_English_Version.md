@@ -3,6 +3,28 @@
 **Course day 3  
 Wednesday, 23.09.2026**
 
+---
+### Materials and Equipment
+**Consumables:**
+
+* Nitrile gloves
+* Aluminium foil
+* Sterile scalpel blades
+* PCR reaction tubes
+* 100 µL or 200 µL pipette tips
+
+**Reagents:**
+
+* QuickExtract™ DNA Extraction Solution
+
+**Equipment:**
+
+* Tube rack
+* 100 µL or 200 µL pipette
+* miniPCR® thermal cycler
+* Gyro™ Plus Microcentrifuge
+---
+
 **2.1** Put on nitrile gloves to avoid contaminating your samples with your own DNA. Try to touch as few surfaces as possible while wearing gloves.
 
 **2.2** Everyone will receive a piece of **aluminium foil**, a sterile **scalpel blade**, and a small **PCR reaction tube** labelled with their previously assigned sample number. Place the reaction tube in a rack.
