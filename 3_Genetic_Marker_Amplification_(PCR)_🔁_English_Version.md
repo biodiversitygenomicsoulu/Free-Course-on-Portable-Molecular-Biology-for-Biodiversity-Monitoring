@@ -10,7 +10,7 @@ Wednesday, 23.09.2026**
 > [!IMPORTANT]
 > We have two different mitochondrial DNA (mtDNA) markers (Teleo02 and Vert 16S; see NOTE below). The pipetting scheme (Table 1) is the same for both primer pairs but is done seperatly!
 >
-> Only one 5× PCR master mix per primer pair (Teleo02 and Vert 16S) *and* per lab group (4 people) is needed. Each person will prepare their own two PCR reactions (step 3.5).
+> Only one 5× PCR master mix per primer pair (Teleo02 and Vert 16S) *and* per lab group (4 people) is needed. Each person will prepare their own two PCR reactions later (step 3.5).
 >
 > The group's 5× PCR master mix is prepared for five reactions to account for pipetting losses and ensure sufficient volume for all four PCR reactions per marker.
 
