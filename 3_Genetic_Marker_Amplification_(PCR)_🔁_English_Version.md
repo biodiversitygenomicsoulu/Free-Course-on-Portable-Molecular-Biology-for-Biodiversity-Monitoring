@@ -13,9 +13,9 @@ Wednesday, 23.09.2026**
 | VWR® Taq DNA Polymerase Master Mix |                   10 µL |
 | Forward (F) primer                 |                  0.4 µL |
 | Reverse (R) primer                 |                  0.4 µL |
-| H₂O (water)                        |                  5.2 µL |
+| H₂O (water)                        |                  6.2 µL |
 | DNA extract*                        |                    1 µL |
-| **Total volume**                   |               **17 µL** |
+| **Total volume**                   |               **18 µL** |
 
 > [!NOTE]
 > In our course, we use two different primer pairs:
