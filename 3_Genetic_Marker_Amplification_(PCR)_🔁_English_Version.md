@@ -91,3 +91,6 @@ Wednesday, 23.09.2026**
 > | Final extension      |       72 °C |  600 s |      1 |
 > | Hold                 |        4 °C |      ∞ |      — |
 
+➤ **3.10** Quick spin-down at maximum speed in the Gyro™ Plus Microcentrifuge (Figure 5).
+
+➤➤➤ We will use 1 µL of PCR product in the next step (4. Gel Electrophoresis).
