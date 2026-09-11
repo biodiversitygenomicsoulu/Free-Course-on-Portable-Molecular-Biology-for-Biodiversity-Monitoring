@@ -31,78 +31,84 @@ Wednesday, 23.09.2026**
 * blueGel™ electrophoresis with built-in transilluminator
 ---
 
-➤ **4.0** Preparattion for all: Dilution of the 5× TBE buffer to 0.5× TBE buffer with destilled water. **5 mL 5× TBE buffer + 45 mL destilled water →  50 mL 0,5× TBE buffer** in a 50 mL falcon tube.
+➤ **4.0** Preparation for all: Dilution of the **5× TBE buffer** to **0.5× TBE buffer** using distilled water. Adding **5 mL of 5× TBE buffer + 45 mL of distilled water → 50 mL of 0.5× TBE buffer** in a 50 mL Falcon tube.
 
-> ***Equation 1:** Dilution equation and calculation example for our 0.5× TBE buffer.*
+> ***Equation 1:** Dilution equation and calculation example for preparing 0.5× TBE buffer.*
+>
 > ### $$C_1 V_1 = C_2 V_2$$
-> 
-> - *C₁* = initial concentration = 5× TBE buffer
-> - *V₁* = initial volume = 0,5× TBE buffer
-> - *C₂* = final concentration = *X* mL 5× TBE buffer
-> - *V₂* = final volume = 50 mL 0.5× TBE buffer
-> 
-> ### $$V_1 = \frac{C_2 \times V_2}{C_1} = \frac{0.5 \times 50}{5} = 5 mL$$
+>
+> * *C₁* = initial concentration = 5× TBE buffer
+> * *V₁* = volume of the initial solution = 5 mL 5× TBE buffer
+> * *C₂* = final concentration = 0.5× TBE buffer
+> * *V₂* = final volume = 50 mL 0.5× TBE buffer
+>
+> ### $$V_1 = \frac{C_2 \times V_2}{C_1} = \frac{0.5 \times 50}{5} = 5\text{ mL}\$$
 
-➤ **4.1** We will make the **2 % agarose gels** to perform a gel electrophoresis with our PCR products in a togehter **in laboratory glass bottle** (Table 3). The blueGel™ electrophoresis chamber can hold a 20 mL gel.
+➤ **4.1** We will prepare **2% agarose gels** for gel electrophoresis of our PCR products together. The agarose solution will be prepared in a **laboratory glass bottle** (Table 3). The blueGel™ electrophoresis chamber can accommodate a **20 mL gel**.
 
-> ***Table 3:** Preparing a 20 mL 2 % agarose gel. For this course, we prepared 400 mg aliquots in 1.5 mL reaction tubes because no sufficiently precise balance was available.*
-> | Component           |                                       Amount |
-> | ------------------- | -------------------------------------------: |
-> | Agarose             |                                   **0.40 g** |
-> | TBE buffer          |                                    **20 mL** |
+> ***Table 3:** Preparation of a 20 mL 2% agarose gel. For this course, we prepared 400 mg aliquots in 1.5 mL reaction tubes because no sufficiently precise balance was available.*
+>
+> | Component       |     Amount |
+> | --------------- | ---------: |
+> | Agarose         | **0.40 g** |
+> | 0.5× TBE buffer |  **20 mL** |
 
-➤ **4.2** Swirl the laboratory glass bottle with the 20 mL agarose-TBE buffer-mix.
+➤ **4.2** Gently swirl the **laboratory glass bottle** containing the 20 mL agarose–TBE mixture.
 
-➤ **4.3** Put the lid loose on the laboratory glass bottle and put it in the microwave. Turn on the microwave for some seconds and observe that it does not boil over!
+➤ **4.3** Loosely place the lid on the laboratory glass bottle and place the bottle in the microwave. Heat the solution for a few seconds at a time and make sure that it does not boil over.
 
-➤ **4.4** Repeatetly, take the out the laboratory glass bottle and swirl to mix. **Use oven gloves!** Repeat that until no small particles compleatly disapear in the buffer.
+➤ **4.4** Repeatedly remove the laboratory glass bottle from the microwave and gently swirl it to mix. **Use oven gloves!** Repeat this process until all agarose particles have completely dissolved and the solution is clear.
 
-➤ **4.5** Add **1 μl SeeGreen™ Nucleic Acid Stain** with a 10 μl pipette if the liquid agarose gel is fully clear. Swirl the bottle to mix the liquid agarose gel and the stain.
+➤ **4.5** Once the liquid agarose solution is completely clear, add **1 µL of SeeGreen™ Nucleic Acid Stain** using a 10 µL pipette. Gently swirl the bottle to mix the stain into the agarose solution.
 
-➤ **4.6** Make sure that the **60 mm x 60 mm gel tray** is in the **injection molded casting platform** and the **two double-sided combs** are in place.
+➤ **4.6** Make sure that the **60 mm × 60 mm gel tray** is correctly positioned in the **injection-moulded casting platform** and that the **two double-sided combs** are in place.
 
 > <img height="350" src="https://www.minipcr.com/wp-content/uploads/blueGel-system-705x467.png" />
 >
-> ***Figure 7:** blueGel™ electrophoresis with built-in transilluminator*
+> ***Figure 7:** blueGel™ electrophoresis system with built-in transilluminator*
 
-➤ **4.7** Pour the liquid agarose gel into the injection molded casting platform and allow the gel to solidify (10 - 15 minutes).
+➤ **4.7** Pour the liquid agarose solution into the **injection-moulded casting platform** and allow the gel to solidify for **10–15 minutes**.
 
-➤ **4.8** Use a 10 µL pipette and prepare the loading mix in a PCR reaction tube or on a PCR 96 plate (Table 4):
+➤ **4.8** Using a 10 µL pipette, prepare the **loading mix** in a PCR reaction tube or on a PCR 96-well plate (Table 4):
 
 > ***Table 4:** Loading mix for gel electrophoresis.*
-> | Component                      |                                     Amount |
-> | ------------------------------ | -----------------------------------------: |
-> | TriTrack DNA Loading Dye       |                                   **1 μl** |
-> | PCR product                    |                                   **1 μl** |
+>
+> | Component                |   Amount |
+> | ------------------------ | -------: |
+> | TriTrack DNA Loading Dye | **1 µL** |
+> | PCR product              | **1 µL** |
 
-➤ **4.9** Use a 10 µL pipette and prepare the DNA ladder mix in a PCR reaction tube or on a PCR 96 plate (Table 5):
+➤ **4.9** Using a 10 µL pipette, prepare the **DNA ladder mix** in a PCR reaction tube or on a PCR 96-well plate (Table 5):
 
 > ***Table 5:** DNA ladder mix for gel electrophoresis.*
-> | Component                      |                                     Amount |
-> | ------------------------------ | -----------------------------------------: |
-> | TriTrack DNA Loading Dye       |                                   **1 μl** |
-> | GeneRuler 1 kb Plus DNA Ladder |                                   **1 μl** |
+>
+> | Component                      |   Amount |
+> | ------------------------------ | -------: |
+> | TriTrack DNA Loading Dye       | **1 µL** |
+> | GeneRuler 1 kb Plus DNA Ladder | **1 µL** |
 
-➤ **4.9** Mix the loading mix and the DNA ladder mix by pipetting.
 
-➤ **4.10** Remove the two double-sided comb and transfer the gel tray with the agarose gel into the buffer chamber.
+➤ **4.10** Mix each of the loading mixes and the DNA ladder mix by pipetting up and down.
 
-➤ **4.11** Pour **30 mL 0.5× TBE buffer** into the buffer chamber with the agarose gel.
+➤ **4.11** Remove the two double-sided combs and transfer the gel tray with the agarose gel into the buffer chamber.
 
-➤ **4.12** Pipette the DNA ladder mix in the the first pocket on the left-hand side of the gel (use a 10 µL pipette).
+➤ **4.12** Pour **30 mL of 0.5× TBE buffer** into the buffer chamber containing the agarose gel.
 
-➤ **4.12** Pipette the loading mixes each in one pocket of the gel in numerical order of the sample numbers (use a 10 µL pipette).
+➤ **4.13** Using a 10 µL pipette, pipette the **DNA ladder mix** into the first well on the left-hand side of the gel.
 
-➤ **4.13** Put the orange cover above the chamber.
+➤ **4.14** Using a 10 µL pipette, pipette each **loading mix** into a separate well in numerical order according to the sample numbers.
 
-➤ **4.14** Turn on the gel electrophoresis and let it run for 20 - 30 minutes.
+➤ **4.15** Place the **orange cover** over the buffer chamber.
 
-➤ **4.15** Stop the gel electrophoresis, put on the **silicone Fold-a-View™ photo documentation hood** (see Figure 8), and turn on the LEDs.
+➤ **4.16** Start the gel electrophoresis and allow it to run for **20–30 minutes**.
+
+➤ **4.17** Stop the gel electrophoresis, place the **silicone Fold-a-View™ photo documentation hood** over the chamber (see Figure 8), and turn on the LEDs.
 
 > <img height="350" src="https://www.minipcr.com/wp-content/uploads/blueGel-with-fold-a-view-2025.jpg" />
 >
-> ***Figure 8:** Silicone Fold-a-View™ photo documentation hood to look at the results.*
+> ***Figure 8:** Silicone Fold-a-View™ photo documentation hood for viewing the results.*
 
-➤ **4.16** 📷 Take a photo of the full gel through the silicone Fold-a-View™ photo documentation hood's hole on top to document the results.
+➤ **4.18** 📷 Take a photograph of the entire gel through the opening in the top of the **silicone Fold-a-View™ photo documentation hood** to document the results.
+
 
 
