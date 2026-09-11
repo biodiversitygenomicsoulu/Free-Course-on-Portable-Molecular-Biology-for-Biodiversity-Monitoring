@@ -3,6 +3,19 @@
 **Dia 2 do curso  
 Terça-feira, 22.09.2026**
 
+---
+### Materiais e Equipamento
+
+**Consumíveis:**
+
+* Saco de plástico para o transporte do peixe
+
+**Equipamento:**
+
+* Câmara fotográfica
+* Etiquetas para as amostras
+---
+
 Bom dia!
 
 🐟 Hoje, irão juntamente com os outros participantes, os professores e os assistentes ao mercado local de peixe em Bissau. O objetivo do curso é selecionar uma grande variedade de espécies entre os peixes, na sua maioria marinhos, disponíveis no mercado. Por favor, conversem com os outros participantes do curso e com os professores caso encontrem um peixe que vos interesse, para evitarmos comprar demasiados exemplares da mesma espécie.
