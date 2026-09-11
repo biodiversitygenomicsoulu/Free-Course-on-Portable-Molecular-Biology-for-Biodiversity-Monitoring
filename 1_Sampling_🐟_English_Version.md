@@ -3,6 +3,19 @@
 **Course day 2  
 Tuesday, 22.09.2026**
 
+---
+### Materials and Equipment
+
+**Consumables:**
+
+* Plastic bag for transporting fish
+
+**Equipment:**
+
+* Camera
+* Sample labels
+---
+
 Good morning!
 
 🐟 Today, you will go together with your fellow participants, the teachers, and the assistants to the local fish market in Bissau. The goal of the course is to select a broad variety of species from the mostly marine fish on offer. Please talk to your fellow course participants and teachers if you find a fish of interest, so that we do not buy too many specimens of the same species.
