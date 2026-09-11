@@ -94,5 +94,5 @@ Wednesday, 23.09.2026**
 
 ➤ **3.10** Perform a quick spin-down at maximum speed using the **Gyro™ Plus Microcentrifuge** (Figure 5).
 
-➤➤➤ We will use **1 µL of PCR product** in the next step (**4. Gel Electrophoresis**).
+➤➤➤ We will use **1 µL of PCR product** in the next step (**[4. Gel Electrophoresis](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Gel_Electrophoresis_%E2%9A%A1_English_Version.md)**).
 
