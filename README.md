@@ -16,7 +16,7 @@ Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitori
 > ## 2. Extração de DNA
 > ## 3. Amplificação do marcador genético (PCR)
 > ## 4. Eletroforese em gel
-> ## → Sequenciamento por Nanopore (demonstração)
+> ## → Preparação da Biblioteca e Sequenciação por Nanopore (demonstração)
 > ## → Bioinformática (demonstração)
 
 ### Como começar
@@ -44,7 +44,7 @@ Repository for the **Free Course on Portable Molecular Biology for Biodiversity 
 > ## 2. DNA Extraction
 > ## 3. Genetic Marker Amplification (PCR)
 > ## 4. Gel Electrophoresis
-> ## → Nanopore Sequencing (demonstration)
+> ## → Nanopore Library Preparation and Sequencing (demonstration)
 > ## → Bioinformatics (demonstration)
 
 ### Getting started
