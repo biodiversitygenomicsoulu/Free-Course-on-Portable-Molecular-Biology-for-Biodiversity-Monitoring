@@ -69,4 +69,4 @@ Quarta-feira, 23.09.2026**
 
 ➤ **2.11** **Centrifugue durante 5 minutos à velocidade máxima.** A microcentrífuga Gyro™ Plus pode atingir velocidades de até 12.000 RPM. Durante a centrifugação, o material de tecido irá depositar-se no fundo do tubo de reação, enquanto o líquido que contém o DNA extraído formará o **sobrenadante**.
 
-➤➤➤ No passo seguinte (**3. Amplificação do marcador genético (PCR)**), iremos utilizar **1 µL de sobrenadante por reação de PCR**.
+➤➤➤ No passo seguinte (**[3. Amplificação do marcador genético (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Amplifica%C3%A7%C3%A3o_do_Marcador_Gen%C3%A9tico_(PCR)_%F0%9F%94%81_Vers%C3%A3o_em_portugu%C3%AAs.md)**), iremos utilizar **1 µL de sobrenadante por reação de PCR**.
