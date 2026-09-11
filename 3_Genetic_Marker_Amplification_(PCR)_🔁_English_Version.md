@@ -16,7 +16,11 @@ Wednesday, 23.09.2026**
 
 **3.3** Close the lit and vortex the PCR reaction tube with the 5× PCR master mix.
 
-**3.4** Quick spin-down at maximum speed in the Gyro™ Plus Microcentrifuge.
+**3.4** Quick spin-down at maximum speed in the Gyro™ Plus Microcentrifuge (Figure 5).
+
+<img height="250" src="https://www.minipcr.com/wp-content/uploads/DSC_0301-800x800.png" />
+
+***Figure 5:** Gyro™ Plus Microcentrifuge*
 
 **3.5** Everybody take the new PCR reaction tubes labelled with their previously assigned sample number and uses a 10 µL pipette to mix the final PCR reaction per primer pair each. **Mix 17 µL PCR master mix (containing Teleo02) with 1 µL DNA extract** and **mix 17 µL PCR master mix (containing Vert 16S) with 1 µL DNA extract (Table 1; second column)**. Label the primer on the lit of the reaction tube to avoid confusion!
 
@@ -40,4 +44,10 @@ Wednesday, 23.09.2026**
 
 **3.6** Close the lit and vortex the PCR reaction tubes with the PCR reaction.
 
-**3.7** Quick spin-down at maximum speed in the Gyro™ Plus Microcentrifuge.
+**3.7** Quick spin-down at maximum speed in the Gyro™ Plus Microcentrifuge (Figure 5).
+
+**3.8** Place the reaction tubes containg your PCR reactions into the **miniPCR® thermal cycler** (Figure 6). Wait for your fellow participants to place their samples in the thermal cycler as well.
+
+**a** <img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16-4-800x533.png" /> **b** <img height="250" src="https://www.minipcr.com/wp-content/uploads/mini16X-hand-tubes-square-560x560.png" />
+
+***Figure 6:** In our course, we use the (**a**) miniPCR® mini16 thermal cycler and the (**b**) miniPCR® mini16X thermal cycler.*
