@@ -15,7 +15,7 @@ Repositório do **Curso Gratuito de Biologia Molecular Portátil para a Monitori
 > ## [1. Amostragem](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/1_Amostragem_%F0%9F%90%9F_Vers%C3%A3o_em_portugu%C3%AAs.md)
 > ## [2. Extração de DNA](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/2_Extra%C3%A7%C3%A3o_de_DNA_%F0%9F%A7%AC_Vers%C3%A3o_em_portugu%C3%AAs.md)
 > ## [3. Amplificação do marcador genético (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Amplifica%C3%A7%C3%A3o_do_Marcador_Gen%C3%A9tico_(PCR)_%F0%9F%94%81_Vers%C3%A3o_em_portugu%C3%AAs.md)
-> ## [4. Eletroforese em gel]()
+> ## [4. Eletroforese em gel](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Eletroforese_em_Gel_%E2%9A%A1_Vers%C3%A3o_em_portugu%C3%AAs.md)
 > ## → Preparação da Biblioteca e Sequenciação por Nanopore (demonstração)
 > ## → Bioinformática (demonstração)
 ---
