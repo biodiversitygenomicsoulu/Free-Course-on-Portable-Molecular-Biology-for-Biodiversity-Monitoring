@@ -1,6 +1,6 @@
 # 2 DNA Extraction
 
-**Course day 3**
+**Course day 2**
 
 ---
 ### Materials and Equipment
