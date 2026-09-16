@@ -1,7 +1,6 @@
 # 4 Eletroforese em Gel
 
-**Dia 3 do curso  
-Quarta-feira, 23.09.2026**
+**Dia 3 do curso**
 
 ---
 
