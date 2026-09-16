@@ -1,7 +1,6 @@
 # 1 Amostragem
 
-**Dia 2 do curso  
-Terça-feira, 22.09.2026**
+**Dia 2 do curso**
 
 ---
 ### Materiais e Equipamento
