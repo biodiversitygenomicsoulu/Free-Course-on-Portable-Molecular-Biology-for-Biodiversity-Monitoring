@@ -86,7 +86,7 @@ Quarta-feira, 23.09.2026**
 > | Componente               | Quantidade |
 > | ------------------------ | ---------: |
 > | TriTrack DNA Loading Dye |   **1 µL** |
-> | Produto de PCR           |   **1 µL** |
+> | Produto de PCR           |   **2 µL** |
 
 ➤ **4.9** Utilizando uma pipeta de 10 µL, prepare a **mistura do marcador de DNA** num tubo de reação para PCR ou numa placa de PCR de 96 poços (Tabela 5):
 
