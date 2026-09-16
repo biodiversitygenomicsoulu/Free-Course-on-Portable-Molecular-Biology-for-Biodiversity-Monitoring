@@ -83,7 +83,7 @@ Wednesday, 23.09.2026**
 > | Component                |   Amount |
 > | ------------------------ | -------: |
 > | TriTrack DNA Loading Dye | **1 µL** |
-> | PCR product              | **1 µL** |
+> | PCR product              | **2 µL** |
 
 ➤ **4.9** Using a 10 µL pipette, prepare the **DNA ladder mix** in a PCR reaction tube or on a PCR 96-well plate (Table 5):
 
