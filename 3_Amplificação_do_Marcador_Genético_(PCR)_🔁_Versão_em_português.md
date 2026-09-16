@@ -97,4 +97,4 @@ Quarta-feira, 23.09.2026**
 
 ➤ **3.10** Faça uma centrifugação rápida (*quick spin-down*) à velocidade máxima utilizando a **microcentrífuga Gyro™ Plus** (Figura 5).
 
-➤➤➤ No passo seguinte (**[4. Eletroforese em gel](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Eletroforese_em_Gel_%E2%9A%A1_Vers%C3%A3o_em_portugu%C3%AAs.md)**), iremos utilizar **1 µL de produto de PCR**.
+➤➤➤ No passo seguinte (**[4. Eletroforese em gel](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/4_Eletroforese_em_Gel_%E2%9A%A1_Vers%C3%A3o_em_portugu%C3%AAs.md)**), iremos utilizar **2 µL de produto de PCR**.
