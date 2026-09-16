@@ -1,7 +1,6 @@
 # 2 DNA Extraction
 
-**Course day 3  
-Wednesday, 23.09.2026**
+**Course day 3**
 
 ---
 ### Materials and Equipment
