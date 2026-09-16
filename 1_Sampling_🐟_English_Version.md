@@ -1,7 +1,6 @@
 # 1 Sampling
 
-**Course day 2  
-Tuesday, 22.09.2026**
+**Course day 2**
 
 ---
 ### Materials and Equipment
