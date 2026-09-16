@@ -41,7 +41,7 @@
 > * *C₂* = final concentration = 0.5× TBE buffer
 > * *V₂* = final volume = 50 mL 0.5× TBE buffer
 >
-> ### $$V_1 = \frac{C_2 \times V_2}{C_1} = \frac{0.5 \times 50}{5} = 5\text{ mL}\$$
+> ### $$V_1 = \frac{C_2 × V_2}{C_1} = \frac{0.5 × 50}{5} = 5 mL$$
 
 ➤ **4.1** We will prepare **2% agarose gels** for gel electrophoresis of our PCR products together. The agarose solution will be prepared in a **laboratory glass bottle** (Table 3). The blueGel™ electrophoresis chamber can accommodate a **20 mL gel**.
 
