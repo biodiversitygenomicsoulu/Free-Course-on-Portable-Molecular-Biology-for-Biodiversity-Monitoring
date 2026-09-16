@@ -44,7 +44,7 @@
 > * *C₂* = concentração final = tampão TBE 0,5×
 > * *V₂* = volume final = 50 mL de tampão TBE 0,5×
 >
-> ### $$V_1 = \frac{C_2 \times V_2}{C_1} = \frac{0.5 \times 50}{5} = 5\text{ mL}\$$
+> ### $$V_1 = \frac{C_2 × V_2}{C_1} = \frac{0.5 × 50}{5} = 5 mL$$
 
 ➤ **4.1** Vamos preparar em conjunto **géis de agarose a 2%** para a eletroforese em gel dos nossos produtos de PCR. A solução de agarose será preparada num **frasco de vidro para laboratório** (Tabela 3). A câmara de eletroforese blueGel™ pode acomodar um **gel de 20 mL**.
 
