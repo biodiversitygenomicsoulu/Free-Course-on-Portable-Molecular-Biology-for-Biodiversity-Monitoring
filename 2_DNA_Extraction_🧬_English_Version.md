@@ -24,6 +24,18 @@
 * Gyro™ Plus Microcentrifuge
 ---
 
+> [!TIP]
+> Here is a quick visual guide how to read the pipette volumes:
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_english.png" />
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_english.png" />
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_english.png" />
+
 ➤ **2.1** Put on nitrile gloves to avoid contaminating your samples with your own DNA. Try to touch as few surfaces as possible while wearing gloves.
 
 ➤ **2.2** Everyone will receive a piece of **aluminium foil**, a sterile **scalpel blade**, and a small **PCR reaction tube** labelled with their previously assigned sample number. Place the reaction tube in a tube rack.
