@@ -25,6 +25,15 @@
 * Gyro™ Plus Microcentrifuge
 ---
 
+>[!TIP]
+> Aqui está um guia visual rápido sobre como ler os volumes das pipetas:
+> 
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_portuguese.png" />
+>
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_portuguese.png" />
+>
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_portuguese.png" />
+
 ➤ **2.1** Coloque luvas de nitrilo para evitar contaminar as suas amostras com o seu próprio DNA. Tente tocar no menor número possível de superfícies enquanto estiver a usar as luvas.
 
 ➤ **2.2** Cada participante receberá um pedaço de **folha de alumínio**, uma **lâmina de bisturi estéril** e um pequeno **tubo de reação para PCR**, identificado com o número de amostra previamente atribuído. Coloque o tubo de reação num suporte.
