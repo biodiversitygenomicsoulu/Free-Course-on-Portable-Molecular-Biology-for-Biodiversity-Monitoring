@@ -24,18 +24,6 @@
 * Gyro™ Plus Microcentrifuge
 ---
 
-> [!TIP]
-> Here is a quick visual guide how to read the pipette volumes:
->
-> 
-> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_english.png" />
->
-> 
-> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_english.png" />
->
-> 
-> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_english.png" />
-
 ➤ **2.1** Put on nitrile gloves to avoid contaminating your samples with your own DNA. Try to touch as few surfaces as possible while wearing gloves.
 
 ➤ **2.2** Everyone will receive a piece of **aluminium foil**, a sterile **scalpel blade**, and a small **PCR reaction tube** labelled with their previously assigned sample number. Place the reaction tube in a tube rack.
@@ -55,6 +43,18 @@
 > Throughout the course, you will pipette different types and volumes of liquids. Always choose a pipette that can accommodate the volume you need to pipette (common sizes are 10 µL, 100 µL, 200 µL, and 1000 µL).
 > 
 > Always discard a pipette tip after transferring a liquid into a tube containing another liquid or sample. This prevents cross-contamination between reagents and samples!
+
+> [!TIP]
+> Here is a quick visual guide how to read the pipette volumes:
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_english.png" />
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_english.png" />
+>
+> 
+> <img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_english.png" />
 
 ➤ **2.6** Using a 100 µL or 200 µL pipette, transfer **50 µL** of **QuickExtract™ DNA Extraction Solution** into the PCR tube containing the piece of tissue. Make sure that the tissue is completely covered by the solution. If the tissue is not completely covered, add more QuickExtract™ DNA Extraction Solution. Remember to use a new pipette tip! Do not exceed the PCR reaction tube's maximum volume of 200 µL. Use the pipette tip to gently remove any air bubbles trapped underneath the tissue.
 
