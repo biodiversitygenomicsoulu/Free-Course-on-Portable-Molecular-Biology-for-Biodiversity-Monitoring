@@ -25,15 +25,6 @@
 * Gyro™ Plus Microcentrifuge
 ---
 
->[!TIP]
-> Aqui está um guia visual rápido sobre como ler os volumes das pipetas:
-> 
-><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_portuguese.png" />
->
-><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_portuguese.png" />
->
-><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_portuguese.png" />
-
 ➤ **2.1** Coloque luvas de nitrilo para evitar contaminar as suas amostras com o seu próprio DNA. Tente tocar no menor número possível de superfícies enquanto estiver a usar as luvas.
 
 ➤ **2.2** Cada participante receberá um pedaço de **folha de alumínio**, uma **lâmina de bisturi estéril** e um pequeno **tubo de reação para PCR**, identificado com o número de amostra previamente atribuído. Coloque o tubo de reação num suporte.
@@ -53,6 +44,15 @@
 > Ao longo do curso, irá pipetar diferentes tipos e volumes de líquidos. Escolha sempre uma pipeta que seja adequada ao volume que pretende pipetar (os tamanhos mais comuns são 10 µL, 100 µL, 200 µL e 1000 µL).
 >
 > Descarte sempre a ponteira da pipeta depois de transferir um líquido para um tubo que contenha outro líquido ou uma amostra. Isto evita a contaminação cruzada entre reagentes e amostras!
+
+>[!TIP]
+> Aqui está um guia visual rápido sobre como ler os volumes das pipetas:
+> 
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H200_portuguese.png" />
+>
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H20_portuguese.png" />
+>
+><img height="350" src="https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/Pictures/H10_portuguese.png" />
 
 ➤ **2.6** Utilizando uma pipeta de 100 µL ou 200 µL, transfira **50 µL** de **QuickExtract™ DNA Extraction Solution** para o tubo de reação para PCR que contém o pedaço de tecido. Certifique-se de que o tecido fica completamente coberto pela solução. Se o tecido não estiver completamente coberto, adicione mais **QuickExtract™ DNA Extraction Solution**. Lembre-se de utilizar uma nova ponteira de pipeta! Não exceda o volume máximo de **200 µL** do tubo de reação para PCR. Utilize a ponta da pipeta para remover suavemente quaisquer bolhas de ar presas por baixo do tecido.
 
