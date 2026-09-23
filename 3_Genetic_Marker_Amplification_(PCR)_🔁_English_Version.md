@@ -47,8 +47,8 @@
 > | Reverse (R) primer                 |                             0.4 µL |                                  2.4 µL |
 > | H₂O (MilliQ water)                 |                             6.2 µL |                                 37.2 µL |
 > | **Total PCR master mix**           |                          **17 µL** |                              **102 µL** |
-> | DNA extract*                       |                               1 µL |                                       — |
-> | **Final reaction volume**          |                          **18 µL** |                                       — |
+> | DNA extract*                       |                               2 µL |                                       — |
+> | **Final reaction volume**          |                          **19 µL** |                                       — |
 
 ➤ **3.3** Close the lid and vortex the PCR reaction tube containing the 6× PCR master mix.
 
@@ -58,7 +58,7 @@
 >
 > ***Figure 5:** Gyro™ Plus Microcentrifuge*
 
-➤ **3.5** Each person should take the new PCR reaction tubes labelled with their previously assigned sample number and prepare the final PCR reactions for each primer pair. Using a 100 µL/200 µL pipette as well as a 10 µL pipette, **combine 17 µL of the PCR master mix containing Teleo02 with 1 µL of DNA extract** and **17 µL of the PCR master mix containing Vert 16S with 1 µL of DNA extract (Table 1, second column)**. Label the primer pair on the lid of each reaction tube to avoid confusion!
+➤ **3.5** Each person should take the new PCR reaction tubes labelled with their previously assigned sample number and prepare the final PCR reactions for each primer pair. Using a 100 µL/200 µL pipette as well as a 10 µL pipette, **combine 17 µL of the PCR master mix containing Teleo02 with 2 µL of DNA extract** and **17 µL of the PCR master mix containing Vert 16S with 2 µL of DNA extract (Table 1, second column)**. Label the primer pair on the lid of each reaction tube to avoid confusion!
 
 > [!NOTE]
 > In our course, we use two different primer pairs:
