@@ -50,8 +50,8 @@
 > | Primer Reverse (R)                 |                               0,4 µL |                                    2,4 µL |
 > | H₂O (água MilliQ)                  |                               6,2 µL |                                   37,2 µL |
 > | **PCR master mix total**           |                            **17 µL** |                                **102 µL** |
-> | Extrato de DNA*                    |                                 1 µL |                                         — |
-> | **Volume final da reação**         |                            **18 µL** |                                         — |
+> | Extrato de DNA*                    |                                 2 µL |                                         — |
+> | **Volume final da reação**         |                            **19 µL** |                                         — |
 
 ➤ **3.3** Feche a tampa e coloque no vórtex o tubo de reação para PCR que contém o **6× PCR master mix**.
 
@@ -61,7 +61,7 @@
 >
 > ***Figura 5:** Microcentrífuga Gyro™ Plus*
 
-➤ **3.5** Cada participante deve pegar nos novos tubos de reação para PCR identificados com o número de amostra previamente atribuído e preparar as reações de PCR finais para cada par de primers. Utilizando uma pipeta de 100 µL/200 µL e uma pipeta de 10 µL, **combine 17 µL do PCR master mix contendo Teleo02 com 1 µL de extrato de DNA** e **17 µL do PCR master mix contendo Vert 16S com 1 µL de extrato de DNA** (Tabela 1, segunda coluna). Identifique o par de primers na tampa de cada tubo de reação para evitar confusões.
+➤ **3.5** Cada participante deve pegar nos novos tubos de reação para PCR identificados com o número de amostra previamente atribuído e preparar as reações de PCR finais para cada par de primers. Utilizando uma pipeta de 100 µL/200 µL e uma pipeta de 10 µL, **combine 17 µL do PCR master mix contendo Teleo02 com 2 µL de extrato de DNA** e **17 µL do PCR master mix contendo Vert 16S com 2 µL de extrato de DNA** (Tabela 1, segunda coluna). Identifique o par de primers na tampa de cada tubo de reação para evitar confusões.
 
 > [!NOTE]
 > No nosso curso, utilizamos dois pares de primers diferentes:
