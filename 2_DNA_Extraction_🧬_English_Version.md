@@ -73,10 +73,12 @@
 
 ➤ **2.10** Place your reaction tube **into the Gyro™ Plus Microcentrifuge** (Figure 4). Balance the reaction tubes before starting the centrifugation. Ask a teacher if you are unsure.
 
+➤ **2.11** The samples will be **heated at 98 °C for 2 minutes** to stop the reaction. This is not a PCR step yet.
+
 > <img height="250" src="https://www.minipcr.com/wp-content/uploads/DSC_0301-800x800.png" />
 >
 > ***Figure 4:** Gyro™ Plus Microcentrifuge*
 
-➤ **2.11** **Centrifuge for 5 minutes at maximum speed.** The Gyro™ Plus Microcentrifuge can reach speeds of up to 12,000 RPM. During centrifugation, the tissue material will settle at the bottom of the reaction tube, while the liquid containing the extracted DNA will form the **supernatant**.
+➤ **2.12** **Centrifuge for 5 minutes at maximum speed.** The Gyro™ Plus Microcentrifuge can reach speeds of up to 12,000 RPM. During centrifugation, the tissue material will settle at the bottom of the reaction tube, while the liquid containing the extracted DNA will form the **supernatant**.
 
 ➤➤➤ We will use **1 µL of supernatant per PCR reaction** in the next step (**[3. Genetic Marker Amplification (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Genetic_Marker_Amplification_(PCR)_%F0%9F%94%81_English_Version.md)**).
