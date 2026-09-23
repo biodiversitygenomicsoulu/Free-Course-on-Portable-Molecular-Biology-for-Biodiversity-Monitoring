@@ -81,4 +81,4 @@
 
 ➤ **2.12** **Centrifuge for 5 minutes at maximum speed.** The Gyro™ Plus Microcentrifuge can reach speeds of up to 12,000 RPM. During centrifugation, the tissue material will settle at the bottom of the reaction tube, while the liquid containing the extracted DNA will form the **supernatant**.
 
-➤➤➤ We will use **1 µL of supernatant per PCR reaction** in the next step (**[3. Genetic Marker Amplification (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Genetic_Marker_Amplification_(PCR)_%F0%9F%94%81_English_Version.md)**).
+➤➤➤ We will use **2 µL of supernatant per PCR reaction** in the next step (**[3. Genetic Marker Amplification (PCR)](https://github.com/biodiversitygenomicsoulu/Free-Course-on-Portable-Molecular-Biology-for-Biodiversity-Monitoring/blob/main/3_Genetic_Marker_Amplification_(PCR)_%F0%9F%94%81_English_Version.md)**).
